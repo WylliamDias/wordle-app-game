@@ -1,0 +1,15 @@
+.keyContainer {
+  padding: 16px 16px;
+  border-radius: 4px;
+  background-color: #454654;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  cursor: pointer;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.keyContainer:hover {
+  opacity: 0.7;
+}
